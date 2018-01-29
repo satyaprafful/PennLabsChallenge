@@ -1,4 +1,4 @@
-# Penn Server Challenge
+## Penn Server Challenge
 
 ## Installation
 1. Clone repo.

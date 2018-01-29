@@ -3,7 +3,7 @@ As a general overview, almost all the functions are implemented and well comment
 
 This is my first dive into anything to do with Web Development and many of the concepts are still relatively unfamiliar, but I'm hoping I've demonstrated at least a few good things! (I did not really touch the front-end though, so it still looks pretty rudimentary).
 
-## Additional Feature Implementation 
+## Additional Feature Implementation: Search
 * Files: Templates, forms.py 
 * A search feature has been implemented through route 'api/clubs/search'
 * It's pretty intuitive to use 
